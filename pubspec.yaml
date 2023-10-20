@@ -1,0 +1,11 @@
+name: analyzer_crash_repro
+description: A MRE for a crash in the Dart Analyser.
+version: 1.0.0
+repository: https://github.com/benthillerkus/analyzer_crash_repro
+
+environment:
+  sdk: ^3.1.4
+
+dev_dependencies:
+  lints: ^2.0.0
+
